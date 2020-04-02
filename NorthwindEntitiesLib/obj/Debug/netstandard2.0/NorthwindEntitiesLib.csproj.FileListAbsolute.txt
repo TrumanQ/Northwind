@@ -1,0 +1,8 @@
+/home/truman/Workspace/ASP/C#8Code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.deps.json
+/home/truman/Workspace/ASP/C#8Code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.dll
+/home/truman/Workspace/ASP/C#8Code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.pdb
+/home/truman/Workspace/ASP/C#8Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.csprojAssemblyReference.cache
+/home/truman/Workspace/ASP/C#8Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.AssemblyInfoInputs.cache
+/home/truman/Workspace/ASP/C#8Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.AssemblyInfo.cs
+/home/truman/Workspace/ASP/C#8Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.dll
+/home/truman/Workspace/ASP/C#8Code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.pdb
